@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/routing-in-depth-hw-17/static/css/main.5e41044a.css",
+    "main.js": "/routing-in-depth-hw-17/static/js/main.8dfc2df5.js",
+    "static/js/787.e7ff21c5.chunk.js": "/routing-in-depth-hw-17/static/js/787.e7ff21c5.chunk.js",
+    "index.html": "/routing-in-depth-hw-17/index.html",
+    "main.5e41044a.css.map": "/routing-in-depth-hw-17/static/css/main.5e41044a.css.map",
+    "main.8dfc2df5.js.map": "/routing-in-depth-hw-17/static/js/main.8dfc2df5.js.map",
+    "787.e7ff21c5.chunk.js.map": "/routing-in-depth-hw-17/static/js/787.e7ff21c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e41044a.css",
+    "static/js/main.8dfc2df5.js"
+  ]
+}
